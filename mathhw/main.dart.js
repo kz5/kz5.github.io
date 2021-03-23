@@ -38646,13 +38646,13 @@ $0:function(){var t=u.z,s=V.et(new F.Gb(),null,t),r=this.a.cu(u.f)
 r.df(s,t)},
 $S:0}
 F.Gb.prototype={
-$1:function(a){return new D.d1("1-9",null)}}
+$1:function(a){return new D.d1("1-1",null)}}
 F.Gd.prototype={
 $0:function(){var t=u.z,s=V.et(new F.Ga(),null,t),r=this.a.cu(u.f)
 r.df(s,t)},
 $S:0}
 F.Ga.prototype={
-$1:function(a){return new D.d1("1-10",null)}}
+$1:function(a){return new D.d1("1-2",null)}}
 F.Ge.prototype={
 $0:function(){var t=u.z,s=V.et(new F.G9(),null,t),r=this.a.cu(u.f)
 r.df(s,t)},
@@ -38743,13 +38743,13 @@ case"1-5":s.lm(1,20)
 break
 case"1-6":s.kj(1,20)
 break
-case"1-7":s.lm(1,100)
+case"1-7":s.lm(11,100)
 break
-case"1-8":s.kj(1,100)
+case"1-8":s.kj(21,100)
 break
-case"1-9":s.lm(11,500)
+case"1-9":s.lm(101,500)
 break
-case"1-10":s.kj(11,500)
+case"1-10":s.kj(201,500)
 break
 default:P.fR("Invalid choice")
 break}return T.a0W(H.b([L.cr(s.b,K.aM(a,!1).y2.d,null),B.Hx(null,L.V8(C.u0),new T.NU(a,s),"Show answer")],u.t),C.f9,C.oo)}}
